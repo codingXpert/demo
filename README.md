@@ -10,7 +10,7 @@ Run this command in your GitHub CLI
 
 # or use the URL
 
-https://github.com/1AnujJoshi/Ninja-Bug-Tracker.git
+https://github.com/codingXpert/demo
 
 # Features
 
