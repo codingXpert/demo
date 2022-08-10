@@ -3,7 +3,7 @@ module.exports.home = async function (req, res) {
   try {
     let projects = await Project.find({}).sort('-createdAt');
     return res.render('home', {
-      title: 'Ninja Bug Tracker | Home',
+      title: 'Issue Tracker | Home',
       projects,
     });
   } catch {
