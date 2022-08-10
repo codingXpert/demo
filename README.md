@@ -6,7 +6,7 @@ A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a projec
 
 Run this command in your GitHub CLI
 
-- gh repo clone 1AnujJoshi/Ninja-Bug-Tracker
+- gh repo clone codingXpert/demo
 
 # or use the URL
 
@@ -32,4 +32,4 @@ https://github.com/codingXpert/demo
 
 # Hosted URL
 
-https://ninja-tracker.herokuapp.com/
+https://dem00000.herokuapp.com/
